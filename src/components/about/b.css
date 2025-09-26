@@ -1,0 +1,88 @@
+
+.container {
+            max-width: 600px;
+            margin: 0 auto;
+            background-color: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 30px;
+            padding-bottom: 20px;
+            border-bottom: 2px solid #ddd;
+        }
+
+        .name {
+            font-size: 28px;
+            color: #333;
+            margin-bottom: 10px;
+        }
+
+        .title {
+            font-size: 18px;
+            color: #666;
+        }
+        .text{
+            text-align: left;
+            margin: 20px 0;
+            font-size: 16px;
+            color: #dc0c0c;
+        }
+
+        .section {
+            margin-bottom: 25px;
+        }
+
+        .section h3 {
+            font-size: 20px;
+            color: #333;
+            margin-bottom: 10px;
+            border-left: 4px solid #007bff;
+            padding-left: 10px;
+        }
+
+        .section p {
+            line-height: 1.6;
+            color: #555;
+        }
+
+        .contact {
+            background-color: #f8f9fa;
+            padding: 15px;
+            border-radius: 5px;
+        }
+
+        .contact p {
+            margin: 5px 0;
+        }
+
+        .about-image{ 
+            width: 80px;
+            height: auto;
+
+        }
+
+        .about-video{
+            max-width: 100%;
+            height: auto;
+            border-radius: 10px;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+        }
+
+        .about-media{
+            flex: 1;
+            display: flex;
+            justify-content: right;
+            align-items: flex-end;
+            margin: 20px 0;
+        }
+
+        .copy-right{
+            text-align: center;
+            font-size: 10;
+            color: #999;
+            margin-top: 14;
+        }
