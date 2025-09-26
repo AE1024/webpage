@@ -34,7 +34,7 @@ const About = () => {
         </div>
         <footer >
             <div className="copy-right">
-                <p>&copy; 2025 Anıl Elmaz. All rights reserved.</p>
+                <p>&copy; 2025 Anıl Elmaz. All rights reserved.2321032024</p>
             </div>
         </footer>
     </div>
